@@ -4,3 +4,5 @@ Engine • revision cdbeda788a
 Tools • Dart 3.0.6 • DevTools 2.23.1
 
 Telegram Bot Father = https://t.me/botfather
+Send Mess Cmd: curl -X POST "https://api.telegram.org/bot[ TOKEN ]/sendMessage" -d "chat_id=-[ Current chat ID ]&text=[ message ]"
+Lấy id Chat: /my_id @my_bot | @RawDataBot
